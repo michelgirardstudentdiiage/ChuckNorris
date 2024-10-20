@@ -1,4 +1,4 @@
-name: SonarCloud
+name: SonarCloud # update 
 on:
   push:
     branches:
